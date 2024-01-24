@@ -1,0 +1,25 @@
+input {
+  outline: none;
+  padding: 10px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.bn {
+  margin-top: 20px;
+}
+.btn1 {
+  margin: 10px;
+  width: 60px;
+  height: 60px;
+}
+
+.btn2 {
+  margin: 10px;
+  min-width: 50px;
+}
+
+.btn3 {
+  margin: 10px;
+  min-width: 50px;
+}
